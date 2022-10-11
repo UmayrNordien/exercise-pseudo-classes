@@ -1,0 +1,9 @@
+.phone ul li:first-child{
+    font-size: 30px;
+    color: darkcyan;
+}
+
+.phone ul li:last-child{
+    font-size: 30px;
+    color: red;
+}
