@@ -1,0 +1,27 @@
+@import url(<style>
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+</style>)
+
+html{
+    text-align: center;
+    font-family: Pathway, Gothic, One;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: ;
+}
+
+h2:after{
+    content;
+}
+
+h2::first-letter{
+    background-color: slateblue;
+}
+p:first-line{
+    background-color: pink;
+    margin:100px;
+}
+h2{
+    text-shadow: .2vw .2vw .1vw lightgray;
+}
